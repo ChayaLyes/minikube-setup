@@ -6,7 +6,7 @@ Script d'installation automatique de Minikube et kubectl pour la préparation CK
 
 Clone ce dépôt Git :
 ```bash
-git clone https://github.com/VOTRE-USERNAME/minikube-setup
+git clone https://github.com/ChayaLyes/minikube-setup
 ```
 
 Exécute le script **minikube-docker-setup.sh** pour installer Minikube ainsi que le client **kubectl**
